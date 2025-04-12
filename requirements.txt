@@ -1,0 +1,17 @@
+faiss-cpu==1.10.0
+numpy==2.1.3
+openai==1.72.0
+openai-whisper==20240930
+torch==2.6.0
+tqdm==4.67.1
+sounddevice==0.5.1
+sentence-transformers==4.0.2
+elevenlabs==1.56.0
+whisper==1.1.10
+absl-py==2.2.2
+colorama==0.4.6
+h5py==3.13.0
+pillow==11.1.0
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.2
